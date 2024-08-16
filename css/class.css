@@ -1,0 +1,121 @@
+body{
+margin:50px;
+background-color: darkgray;
+}
+
+td{
+    font-family: calibri(body);
+    font-size: 30px;
+}
+
+th{
+background-color: darkgray;
+color:white;
+padding: 50px;
+font-size: 40px;
+font-family: Humnst777 BT;
+}
+
+.go{
+    background-color: white;
+}
+
+caption{
+    margin: 50px;
+    font-family: Kaufmann BT;
+    font-size: 50px;
+}
+.cash{
+    background-color: white;
+}
+
+.welcome{
+background-color: darkgrey;
+}
+
+table{
+border-color:yellow;
+margin: auto;
+}
+
+.rug{
+    background-color: white;
+}
+
+.feb{
+    margin: auto;
+    border-color: aqua;
+    font-family: Century751 SeBd BT;
+
+}
+
+.win{
+    background-color: white;
+}
+
+.hen{
+    background-color: white;
+}
+
+.big{
+    background-color: white;
+}
+
+.dog th{
+    padding: 50px;
+    background: none;
+    color: white    
+}
+
+.mar{
+    border-color: blue;
+    font-family: Century751 SeBd BT;
+}
+
+.apr{
+    border-color: crimson;
+    font-family: Century751 SeBd BT;
+}
+
+.apr th{
+    background-color: darkgray;
+}
+
+.may{
+    border-color: darkgreen;
+    font-family: Century751 SeBd BT;
+}
+
+.june{
+    border-color: darkcyan;
+    font-family: Century751 SeBd BT;
+}
+
+.jul{
+    border-color: dodgerblue;
+    font-family: Century751 SeBd BT;
+}
+
+.aug{
+    border-color: black;
+    font-family: Century751 SeBd BT;
+}
+
+.sept{
+    border-color: brown;
+    font-family: Century751 SeBd BT;
+}
+
+.oct{
+    border-color: blueviolet;
+    font-family: Century751 SeBd BT;
+}
+
+.nov{
+    font-family: Century751 SeBd BT;
+}
+
+.dece{
+    font-family: Century751 SeBd BT;
+    border-color: red;
+}
